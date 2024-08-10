@@ -1,0 +1,128 @@
+.color{
+    background: #FFBC4A !important;
+}
+.mainIMg{
+    width: 70%;
+    height: 100%;
+}
+.headerTwo{
+   color: #000;
+font-family: Inter;
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.images{
+    width: 540px;
+    height: 560.667px;
+}
+.imagesOne{
+width: 540px;
+height: 338.777px;
+flex-shrink: 0;
+
+}
+.colorOne{
+    display: inline-block;
+    color: white;
+    background-color: black !important;
+    border-radius: 2px;
+    padding: 5px;
+}
+.colorTwo-main{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 5px;
+
+}
+.colorTwo{
+    display: inline-block;
+    color: black;
+    background-color: #CDF567 !important;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 5px;
+
+}
+.box{
+    width: 50%;
+}
+.custom p{
+    color: #000;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.imgDesigner{
+height: 697.698px;
+
+}
+.imgDesignerOne{
+height: 439.471px;
+flex-shrink: 0;
+}
+.imgDesignerTwo{
+height: 558px;
+flex-shrink: 0;
+}
+.rotate{
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    margin: auto;
+}
+.style{
+    align-items: center;
+    height: 48vh;
+    width: 118px;
+}
+.styleOne{
+    align-items: center;
+    height: 30vh;
+
+}
+/* Design Inbox */
+.colorinox{
+    background-color: #000 !important;
+}
+.par{
+color: #fff;
+text-align: center;
+font-family: Inter;
+font-size: 68px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.spacing{
+    width: 50% !important;
+    border-color: #fff;
+    border-bottom: solid;
+}
+.below{
+color: rgba(255, 255, 255, 0.70);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.padBottom{
+    margin-bottom: 70px;
+}
+.width{
+    width: 70%;
+    color: rgba(255, 255, 255, 0.70);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
